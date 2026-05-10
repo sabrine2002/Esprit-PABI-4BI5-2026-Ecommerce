@@ -1,9 +1,9 @@
 export const environment = {
   production: true,
-  apiUrl: '', // ⚠️ change ça !
+  apiUrl: 'http://localhost:8000',
   emailjs: {
-    serviceId:  'service_lj15dth',
+    serviceId: 'service_lj15dth',
     templateId: 'template_rlcoast',
-    userId:     '_DfJ3QoLTwI57R6Sp',
+    userId: '_DfJ3QoLTwI57R6Sp',
   }
 };
