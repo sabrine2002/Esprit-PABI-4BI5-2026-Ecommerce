@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/sougui-front/browser",
+"outputDirectory": "dist/sougui-front",
   "rewrites": [
     {
       "source": "/(.*)",
