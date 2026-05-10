@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:8000',
+  apiUrl: 'https://sougui-backend.onrender.com',
   emailjs: {
     serviceId: 'service_lj15dth',
     templateId: 'template_rlcoast',
